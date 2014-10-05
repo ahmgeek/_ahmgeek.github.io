@@ -1,0 +1,15 @@
+---
+layout: default
+title: 'Ahmad'
+---
+
+<div class="archive">
+  {% for post in site.posts %}
+  <div class="archive-item">
+    <span class="post-date archive-date">{{ post.date | date_to_string }}</span>
+      <a href="{{ post.url }}" class="archive-title">
+        {{ post.title }}
+      </a>
+  </div>
+  {% endfor %}
+</div>

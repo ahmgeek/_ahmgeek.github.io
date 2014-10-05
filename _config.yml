@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        /:title
+
+# Setup
+title:            'Ahmad'
+tagline:          'living since 1991'
+description:      '&copy Programming,Philosophy and Bullshit.'
+
+# Handling Reading
+
+author:         'Ahmad Abd-Elghany'
+name:           'Ahmad Abd-Elghany'
+url:            'https://abdlghany.com'
+email:          'ahmad@abdlghany.com'
