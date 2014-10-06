@@ -18,10 +18,10 @@ say bye bye!
 
 ##contact me
 * You may noticed that there's no comment section in the blog, instead,
-you can [Ask me any thing here](https://github.com/ahmgeek/feedback/issues/new).
+you can [Comment or Ask me any thing here](https://github.com/ahmgeek/feedback/issues/new).
 * My twitter account is [@ahmgeek](https://twitter.com/ahmgeek).
 * My email is <code>tolpa1 at gmail dot com</code>
-* If all of this is not enough, then think in me deeply, a mental-communication bridge may be opened between us.
+* If all of this is not enough, then think in me deeply, a mental-communication bridge maybe open between us.
 
 
 <code>//TODO: You are awesome, write more words about your self <br></code>
