@@ -303,7 +303,7 @@ a:hover {
 }
 .nav li {
   display: inline-block;
-  font-size: .9rem;
+  font-size: 1rem;
 }
 .nav li + li {
   margin-left: .5rem;
