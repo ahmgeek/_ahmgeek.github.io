@@ -12,8 +12,8 @@ Our poor kid knew Medium, actually he tried before to write on Medium, but the l
 This Manshar thing, was different, it somehow was a clone of Medium, but in Arabic…
 
 ---
-### | the Arabic publishing Platform Manshar مَنْشَر |
-
+###<center> the Arabic publishing Platform Manshar مَنْشَر</center>
+---
 Another story begins little earlier, when [Mohammad Khatib](https://plus.google.com/+MohammadKhatib), noticed something weird while he was answering nature’s call.
 
 >The Arabic content on the web was too small, but no one really tried hard to solve this issue, even Wikipedia’s Arabic content, is much less than any other peer. “Weird grrrr” -said Khatib while an echo of water droplets Audible from the scene’s background.
