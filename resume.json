@@ -1,0 +1,161 @@
+{
+  "basics": {
+    "name": "Ahmad Abd-Elghany",
+    "label": "Developer",
+    "picture": "http://i.imgur.com/m6rhQmU.jpg",
+    "email": "tolpa1@gmail.com",
+    "phone": "",
+    "website": "http://ahmgeek.github.io",
+    "summary": "A Self-Taught developer seeking opportunities where I can utilize my skills to add a value, make a difference, improve myself, increase my experience, and widen my knowledge base, while meeting new people. Also, i am a very enthusiastic about the domination of machines upon this world, so i am trying to Make 'Em succeed in this mission.",
+    "location": {
+      "address": "Cairo/Egypt",
+      "postalCode": "",
+      "city": "Cairo",
+      "countryCode": "Egypt",
+      "region": "Cairo"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "ahmgeek",
+        "url": "http://github.com/ahmgeek"
+      },
+      {
+        "network": "Twitter",
+        "username": "@ahmgeek",
+        "url": "http://twitter.com/ahmgeek"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Appenza Studio",
+      "position": "Software Engineer",
+      "website": "http://appenza-studio.com",
+      "startDate": "2016-04-01",
+      "endDate": "",
+      "summary": "Appenza provide tailoring of leading edge custom application development, upgrades, enhancements and maintenance of existing applications across all platforms.",
+      "highlights": [
+        "Working in a polyglot team to get whatever the job done.",
+        "Maintaining a world-class LMS (Auroralms.com) built with Rails APIs on the back-end and Angular on the front-end.",
+        "Maintaining the Windows App which responsible for in-class connecting to the LMS APIs."
+      ]
+    },
+    {
+      "company": "Drupia Technology Solutions",
+      "position": "RoR Craftsman (contractor)",
+      "website": "http://drupia.com",
+      "startDate": "2015-10-1",
+      "endDate": "2016-03-15",
+      "summary": "Software development house, focus on serving mainly the Gulf area and its financial market, through building a highly available, scalable and  maintainable systems.",
+      "highlights": [
+        "Working with the team to enhance the Main product of the company [http://marketsvoice.com].",
+        "Initating e-commerce solutions with rails Engines.",
+        "Building CMSs with Rails Engines."
+      ]
+    },
+    {
+      "company": "Webkeyz",
+      "position": "RoR Craftsman (contractor)",
+      "website": "http://webkeyz.com",
+      "startDate": "2015-4-15",
+      "endDate": "11-01-2015",
+      "summary": "Helping software houses deliver intelligent & beautiful experiences",
+      "highlights": [
+        "Working with the UI/UX team to build a social network.",
+        "Building from the ground-up a social story telling platform.",
+        "Working with the client to consolidate ideas."
+      ]
+    },
+    {
+      "company": "Freelancer",
+      "position": ".NET developer",
+      "website": "",
+      "startDate": "2011-07-05",
+      "endDate": "2013-09-07",
+      "summary": "Building Applications with .NET stack that meets clients requirements.",
+      "highlights": [
+        "Gathering clients requirements.",
+        "Design systems work flows.",
+        "Setting up data-stores, mostly SQLServer. - ",
+        "Writing stored procedures by hand for more performance. "
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Manshar (OSS)",
+      "position": "Web Developer, Core Contributor",
+      "website": "http://manshar.com/",
+      "startDate": "2014-12-01",
+      "endDate": "",
+      "summary": "Manshar is an Arabic publishing platform that focuses mainly on content, making it beautiful and easy to read without any distractions that has nothing to do with the content. In addition to Manshar’s mission of spreading the culture of blogging in Arabic and contributing to the Arabic content, Manshar also aims at gathering the best Arab developers around the project by making it open source and available for anybody interested to join, to spread the culture of collaborating and contributing amongst the developers community as well.",
+      "highlights": [
+        "Focusing on tuning the performance of the platform.",
+        "Laying the foundation of the image infrastructure.",
+        "Writing and helping with the content.",
+        "Blogging about the process of building Manshar [https://medium.com/@ahmgeek/medium-for-arab-682e5901cceb]"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Misr Higher Institute",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-10-01",
+      "gpa": "",
+      "courses": [
+        "Algorithms",
+        " Data Structures",
+        " Databases",
+        "  Networks",
+        " File Organization",
+        "Operating Systems",
+        "Artifical Intelligent",
+        "Software Engineering",
+        "Computer Graphics",
+        "Computer Languages",
+        "System Analysis",
+        "Modeling and Simulation"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Rails",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "BackEnd development",
+      "level": "Master",
+      "keywords": [
+        "Ruby",
+        "C#",
+        ".NET",
+        "Linux"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent."
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
