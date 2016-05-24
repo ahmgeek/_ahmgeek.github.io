@@ -15,16 +15,14 @@ say bye bye!
 
 ![Ahmad's Head](/images/ahmad/Ahmad.jpg "Ahmad's Head")
 
-
-## Contact me
-
+# Contact me
 You may noticed that there's no comment section in the blog, instead,
 you can [Comment or Ask me any thing here](https://github.com/ahmgeek/feedback/issues/new).
 
 * My twitter account is [@ahmgeek](https://twitter.com/ahmgeek).
-* My email is <code>tolpa1 at gmail dot com</code>
+* My email is <code>ahmad at abdlghany dot com</code>.
+* My resume is [here](http://abdlghany.com/resume)
 * If all of this is not enough, then think in me deeply, a mental-communication bridge maybe opens up between us.
 
 
-<code>//TODO: You are awesome, write more words about your self <br></code>
-
+ <code>//TODO: You are awesome, write more words about your self <br></code>
