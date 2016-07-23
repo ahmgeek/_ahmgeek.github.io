@@ -12,8 +12,11 @@ Our poor kid knew Medium, actually he tried before to write on Medium, but the l
 This Manshar thing, was different, it somehow was a clone of Medium, but in Arabic…
 
 ---
-###<center> the Arabic publishing Platform Manshar مَنْشَر</center>
+
+### <center> the Arabic publishing Platform Manshar مَنْشَر </center>
+
 ---
+
 Another story begins little earlier, when [Mohammad Khatib](https://plus.google.com/+MohammadKhatib), noticed something weird while he was answering nature’s call.
 
 >The Arabic content on the web was too small, but no one really tried hard to solve this issue, even Wikipedia’s Arabic content, is much less than any other peer. “Weird grrrr” -said Khatib while an echo of water droplets Audible from the scene’s background.
@@ -34,7 +37,10 @@ He is a developer, the problem is, Manshar uses tools that Ahmad never knew befo
 was encouraging enough to let him start coding things that he never knew he able to code.
 
 ---
-### Ahmad, the full of shit dude and the bag of sweets team.
+
+### <center> Ahmad, the full of shit dude and the bag of sweets team.</center>
+
+---
 
 This story needs a realistic vision.
 behind the scene, Ahmad was a Zero on the left beside the team.
@@ -52,6 +58,6 @@ In a short words, Rasha is awesome.
 
 ![Image for the Team](https://cdn-images-1.medium.com/max/980/1*X_-Prdd2jOvyL08F7PYw4Q.png)
 
-You see, it will be pure gibberish to talk about all of the team, we can shorten the words as “ they are awesome” specially that [Gaber](https://github.com/AhmedGaber), *Mad Hugs*.
+You see, it will be pure gibberish to talk about all of the team, we can shorten the words as “ they are awesome” specially that [Gaber](https://github.com/AhmedGaber), *Mad Hugs for you*.
 
 And that’s dears, the wisest story at the mean time, the story that started with a poor kid, and ended while the poor kid has turned into a Manshar fetish kid. A kid who may fall in love and hate, may be sad, but will always write on Manshar to express his shit.
