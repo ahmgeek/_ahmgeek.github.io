@@ -29,11 +29,25 @@
   },
   "work": [
     {
+      "company": "Eventtus",
+      "position": "Software Engineer",
+      "website": "http://eventtus.com",
+      "startDate": "2016-08-07",
+      "endDate": "",
+      "summary": "Eventtus is an instant social network platform for events, Its main goal is mobilizing events and maximizing networking opportunities for attendees. By providing a single app for all the events, that will keep attendees informed with agenda, speakers and live announcements as well as increasing interactions and social buzz around events.",
+      "highlights": [
+        "Working at one of the most successful startups in Egypt.",
+        "Maintaining the core app with a very passionate and talented team.",
+        "Working on almost 6 micro services written in NodeJs, Ruby and Go.",
+        "Introduced leveraging the use of TICK stack from influx-data."
+      ]
+    },
+    {
       "company": "Appenza Studio",
       "position": "Software Engineer",
       "website": "http://appenza-studio.com",
       "startDate": "2016-04-01",
-      "endDate": "",
+      "endDate": "2016-08-01",
       "summary": "Appenza provide tailoring of leading edge custom application development, upgrades, enhancements and maintenance of existing applications across all platforms.",
       "highlights": [
         "Working in a polyglot team to get whatever the job done.",
