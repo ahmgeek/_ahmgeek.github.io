@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Me,Myself and I
 permalink: about-ahmad/
 date: '04-10-2014'
