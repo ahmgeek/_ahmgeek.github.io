@@ -16,8 +16,9 @@ author:
   - twitter:      'ahmgeek'
 
 name:           'Ahmad Abd-Elghany'
-url:            'https://abdlghany.com'
+url:            'http://abdlghany.com'
 email:          'ahmad@abdlghany.com'
 
 gems:
   - jekyll-seo-tag
+  - jekyll-redirect-from
