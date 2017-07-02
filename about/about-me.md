@@ -6,9 +6,9 @@ date: '04-10-2014'
 ---
 
 Hey you, my name is Ahmad Abd-Elghany, I was born in 1/1/1991, that's not so young not too old. And yeah, lots of ones right there.<br>Currently I live in
-[Egypt](http://www.wikiwand.com/en/Egypt), and no, we don't ride camels to go to work, we live the 21st century so we ride people instead.
+[~~Egypt~~](http://www.wikiwand.com/en/Egypt), ~~and no, we don't ride camels to go to work, we live the 21st century so we ride people instead.~~ [Linz, Austria](https://en.wikipedia.org/wiki/Linz)
 
-I love technology, actually i am a very enthusiastic about the domination of machines upon this world, so i am trying to Make 'Em succeed in this mission.
+I love technology, actually i am a very enthusiastic about the domination of machines upon this world, so i am trying to Make 'Em succeed in this mission. I also help people get shaped by working at [runtastic](http://runtastic.com).
 
 I have no more words to say about myself right now so, let me put a picture of my head and
 say bye bye!
