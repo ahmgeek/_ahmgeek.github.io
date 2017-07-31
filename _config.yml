@@ -11,7 +11,7 @@ tagline:          'living since 1991'
 description:      '&copy Programming,Philosophy and Bullshit.'
 
 # Handling Reading
-author:
+authors:
   - facebook:     'ahmgeek'
   - twitter:      'ahmgeek'
 
@@ -19,6 +19,6 @@ name:           'Ahmad Abd-Elghany'
 url:            'http://abdlghany.com'
 email:          'ahmad@abdlghany.com'
 
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
