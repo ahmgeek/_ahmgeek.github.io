@@ -16,7 +16,9 @@ twitter:
 
 name:           'Ahmad Abd-Elghany'
 url:            'http://abdlghany.com'
-email:          'ahmad@abdlghany.com'
+email:          'ahmad@icloud.com'
+
+strict_front_matter: true
 
 plugins:
   - jekyll-redirect-from

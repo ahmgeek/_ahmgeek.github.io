@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '19-05-2015'
+date: 2015-05-19
 title: Medium For Arabs
 ---
 ![Image of Manshar](https://cdn-images-1.medium.com/max/2000/1*zp9mCgLzuEX07evkJiQEKg.jpeg)
