@@ -20,7 +20,7 @@ outputs:
         - RSS
         - JSON # is necessary
 params:
-  env: development # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Ahmad's Log
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
