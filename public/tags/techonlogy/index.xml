@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>techonlogy on Ahmad&#39;s Log</title>
+    <link>https://ahmgeek.com/tags/techonlogy/</link>
+    <description>Recent content in techonlogy on Ahmad&#39;s Log</description>
+    <image>
+      <url>https://ahmgeek.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ahmgeek.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Nov 2020 11:00:00 +0000</lastBuildDate><atom:link href="https://ahmgeek.com/tags/techonlogy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How &#34;How to become a hacker&#34; changed my life</title>
+      <link>https://ahmgeek.com/posts/how-to-become-a-hacker/</link>
+      <pubDate>Sun, 22 Nov 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://ahmgeek.com/posts/how-to-become-a-hacker/</guid>
+      <description>I remember vividly why I wanted to write code.  I wanted to be a hacker&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

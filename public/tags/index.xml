@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Ahmad&#39;s Log</title>
+    <link>https://ahmgeek.com/tags/</link>
+    <description>Recent content in Tags on Ahmad&#39;s Log</description>
+    <image>
+      <url>https://ahmgeek.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ahmgeek.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Nov 2020 11:00:00 +0000</lastBuildDate><atom:link href="https://ahmgeek.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>software</title>
+      <link>https://ahmgeek.com/tags/software/</link>
+      <pubDate>Sun, 22 Nov 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://ahmgeek.com/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>techonlogy</title>
+      <link>https://ahmgeek.com/tags/techonlogy/</link>
+      <pubDate>Sun, 22 Nov 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://ahmgeek.com/tags/techonlogy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>books</title>
+      <link>https://ahmgeek.com/tags/books/</link>
+      <pubDate>Sat, 21 Nov 2020 16:04:15 +0000</pubDate>
+      
+      <guid>https://ahmgeek.com/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading</title>
+      <link>https://ahmgeek.com/tags/reading/</link>
+      <pubDate>Sat, 21 Nov 2020 16:04:15 +0000</pubDate>
+      
+      <guid>https://ahmgeek.com/tags/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>https://ahmgeek.com/tags/philosophy/</link>
+      <pubDate>Tue, 06 Dec 2016 15:20:00 +0000</pubDate>
+      
+      <guid>https://ahmgeek.com/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

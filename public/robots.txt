@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ahmgeek.com/sitemap.xml

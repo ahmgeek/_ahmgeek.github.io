@@ -1,0 +1,106 @@
+baseURL: https://ahmgeek.com
+languageCode: en-us
+title: Ahmad's Log
+paginate: 5
+theme: PaperMod
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-41805436-4
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+params:
+  env: development # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Ahmad's Log
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Ahmad's Log"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  homeInfoParams:
+    Title: "\U0001F44B Welcome to Ahmad's Log"
+    Content: Hi, this is Ahmad, an SRE who loves everything computers.
+      I am very enthusiastic about the domination of machines upon this world, so i am trying to Make 'Em succeed in this mission.
+      I'm also doing computers at Gitlab on the side.
+
+  socialIcons:
+    - name: rss
+      url: "https://ahmgeek.com/index.xml"
+    - name: twitter
+      url: "https://twitter.com/ahyield"
+    - name: instagram
+      url: "https://instagram.com/ahmgeek"
+    - name: github
+      url: "https://github.com/ahmgeek"
+    - name: gitlab
+      url: "https://gitlab.com/ahyield"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: Posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: Archive
+      name: Archive
+      url: /archives/
+      weight: 20
+    - identifier: search
+      name: search
+      url: /search
+      weight: 30
+    - identifier: tags
+      name: tags
+      url: /tags
+      weight: 40

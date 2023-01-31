@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>reading on Ahmad&#39;s Log</title>
+    <link>https://ahmgeek.com/categories/reading/</link>
+    <description>Recent content in reading on Ahmad&#39;s Log</description>
+    <image>
+      <url>https://ahmgeek.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ahmgeek.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Nov 2020 16:04:15 +0000</lastBuildDate><atom:link href="https://ahmgeek.com/categories/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 2020 in books</title>
+      <link>https://ahmgeek.com/posts/my-2020-in-books/</link>
+      <pubDate>Sat, 21 Nov 2020 16:04:15 +0000</pubDate>
+      
+      <guid>https://ahmgeek.com/posts/my-2020-in-books/</guid>
+      <description>As much as I&amp;rsquo;d like to talk about these books, I know that reading&amp;rsquo;s taste differs from one person to another&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

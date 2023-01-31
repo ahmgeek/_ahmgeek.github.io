@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Ahmad&#39;s Log</title>
+    <link>https://ahmgeek.com/posts/</link>
+    <description>Recent content in Posts on Ahmad&#39;s Log</description>
+    <image>
+      <url>https://ahmgeek.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ahmgeek.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Nov 2020 11:00:00 +0000</lastBuildDate><atom:link href="https://ahmgeek.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How &#34;How to become a hacker&#34; changed my life</title>
+      <link>https://ahmgeek.com/posts/how-to-become-a-hacker/</link>
+      <pubDate>Sun, 22 Nov 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://ahmgeek.com/posts/how-to-become-a-hacker/</guid>
+      <description>I remember vividly why I wanted to write code.  I wanted to be a hacker&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My 2020 in books</title>
+      <link>https://ahmgeek.com/posts/my-2020-in-books/</link>
+      <pubDate>Sat, 21 Nov 2020 16:04:15 +0000</pubDate>
+      
+      <guid>https://ahmgeek.com/posts/my-2020-in-books/</guid>
+      <description>As much as I&amp;rsquo;d like to talk about these books, I know that reading&amp;rsquo;s taste differs from one person to another&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hunting Production Bugs</title>
+      <link>https://ahmgeek.com/posts/tales-from-the-wild-hunting-and-squashing-production-bugs/</link>
+      <pubDate>Wed, 09 May 2018 14:33:00 +0000</pubDate>
+      
+      <guid>https://ahmgeek.com/posts/tales-from-the-wild-hunting-and-squashing-production-bugs/</guid>
+      <description>Usually, on boarding in a new job passes in a slow rhythm during the first couple of months. That was the case with me at least, getting to know how our infrastructure at Runtastic is built..</description>
+    </item>
+    
+    <item>
+      <title>A journey from Acceptability to habituality</title>
+      <link>https://ahmgeek.com/posts/a-journey-from-acceptability-to-habituality/</link>
+      <pubDate>Tue, 06 Dec 2016 15:20:00 +0000</pubDate>
+      
+      <guid>https://ahmgeek.com/posts/a-journey-from-acceptability-to-habituality/</guid>
+      <description>What if I told you a truth that no-one knows except me?A shocking truth, that might change you entirely.Condoning the ways about how this truth came to me,Will you believe it ?</description>
+    </item>
+    
+    <item>
+      <title>Medium For Arabs</title>
+      <link>https://ahmgeek.com/posts/medium-for-arabs/</link>
+      <pubDate>Tue, 19 May 2015 14:28:00 +0000</pubDate>
+      
+      <guid>https://ahmgeek.com/posts/medium-for-arabs/</guid>
+      <description>Our story is one of those stories, that embody mixtures of fun, thrill and good advice. And as most of the stories, it’s exposing us to the human being itself; his desires, that in turns plays a main role in his life philosophy.
+Our story begins with a poor kid, not that kind of poverty that involves a very deep miserable state in life that needs a huge amount of fights against the Capitalism force of the world.</description>
+    </item>
+    
+  </channel>
+</rss>
